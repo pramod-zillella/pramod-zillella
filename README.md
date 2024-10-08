@@ -1,3 +1,7 @@
+### Hey there! <img src="wave.gif" width="25px">
+
+<h3>I'm Pramod Zillella! <img src="logo.gif" width="50"></h3>
+
 I'm a Machine Learning Engineer passionate about developing AI solutions that make a real impact in healthcare and fitness. With expertise in Generative AI, LLMs, and cloud infrastructure, I specialize in implementing RAG techniques and working with proprietary LLMs. As an Oracle Certified Professional, I'm constantly exploring innovative ways to leverage AI for impactful, real-world applications.
 
 ### 🛠 Skills
